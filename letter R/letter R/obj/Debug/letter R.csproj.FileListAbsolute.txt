@@ -1,0 +1,6 @@
+D:\Draw with C#\letter R\letter R\bin\Debug\letter R.exe.config
+D:\Draw with C#\letter R\letter R\bin\Debug\letter R.exe
+D:\Draw with C#\letter R\letter R\bin\Debug\letter R.pdb
+D:\Draw with C#\letter R\letter R\obj\Debug\letter R.csproj.CoreCompileInputs.cache
+D:\Draw with C#\letter R\letter R\obj\Debug\letter R.exe
+D:\Draw with C#\letter R\letter R\obj\Debug\letter R.pdb
